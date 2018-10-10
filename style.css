@@ -1,0 +1,12 @@
+#inside2{
+    width: 500px;
+    height: 100px;
+    background: radial-gradient(closest-side, yellow, red);
+}
+#inside{
+    width: 50%;
+    height: 50%;
+    background-color: grey;
+    position: center;
+
+}
